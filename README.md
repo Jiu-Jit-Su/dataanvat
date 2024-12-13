@@ -1,2 +1,1 @@
-# dataanvat
-image food
+https://cdn.jsdelivr.net/gh/Jiu-Jit-Su/dataanvat/imagename.jpg
